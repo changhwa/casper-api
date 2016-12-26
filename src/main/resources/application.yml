@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: casper-api
+  profiles:
+    active: dev
